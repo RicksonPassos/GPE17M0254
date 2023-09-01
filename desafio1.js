@@ -15,3 +15,7 @@ for(let valor of novoArray){
 matrixTransposta.push(matrizTrnas);
 matrixTransposta.push(matrizTrnas2);
 console.log(matrixTransposta);
+
+
+
+
